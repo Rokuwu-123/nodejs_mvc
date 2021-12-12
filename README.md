@@ -1,4 +1,4 @@
-# nodejs_mvc
+# Node JS Rest API (MVC)
 Restapi sederhana menggunakan Node Js dan Postgresql
 
 Inspirasi rest api : 
